@@ -1,0 +1,5 @@
+{
+  "name": "Chat Gemini",
+  "description": "Uma interface de conversação sofisticada estilo ChatGPT alimentada pelo Google Gemini 2.5 Flash. Apresenta respostas em tempo real, suporte a markdown e uma interface limpa e responsiva.",
+  "requestFramePermissions": []
+}
